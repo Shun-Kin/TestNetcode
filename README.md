@@ -11,7 +11,7 @@ Netcode for GameObjects 2.1.1
 
 Описание по тестовому заданию:
 
-    Сетевого решения:
+    Сетевое решение:
 
         Использование Unity Netcode for GameObjects.
 
